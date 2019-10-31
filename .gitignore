@@ -8,3 +8,4 @@
 *.json
 .directory
 data/
+pvt/
