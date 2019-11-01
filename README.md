@@ -20,15 +20,22 @@ The data in the project consists of:
 * Weather information for each of the sites
 * Annotations for each of the buildings involved
 
-# Project Methodology
+# Project Methodology/Assignments
 
-* This project will consist of the following stages:
+This project will consist of the following stages:
 
 1. Initial investigation of the meter readings 
 2. Baseline model using weather and building information
-3. Model refinement
-4. Model deployment
+3. Data conditioning and investigation
+4. Model refinement
 
-# Project Status/Findings
+| Stage        | Description           | Assigned  | Status |
+| ------------- |:-------------:| -----:|
+| 1.      | Initial investigation of the meter readings  | David | Underway |
+| 2.      | Baseline model using weather and building information      |   Chuck | Underway |
+| 3. | Data conditioning and investigation      |    David / Chuck | Pending |
+| 4. | Model refinement      |    - | Not Started
 
-The project is currently in step 1 and is transitioning to step 2.
+# Project Findings
+
+The meter readings appear to have contaiminated with noise. Initial denoise efforts have shown an improvement in the meter reading character but modeling results are still inconclucsive.
