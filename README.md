@@ -30,7 +30,7 @@ This project will consist of the following stages:
 4. Model refinement
 
 | Stage        | Description           | Assigned  | Status |
-| ------------- |:-------------:| -----:|
+| :------------- |:-------------|:-----|:---|
 | 1.      | Initial investigation of the meter readings  | David | Underway |
 | 2.      | Baseline model using weather and building information      |   Chuck | Underway |
 | 3. | Data conditioning and investigation      |    David / Chuck | Pending |
