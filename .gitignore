@@ -10,3 +10,6 @@
 data/
 pvt/
 utilities_build/
+*.png
+*.odp
+.~*
